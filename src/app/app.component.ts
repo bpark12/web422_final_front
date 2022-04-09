@@ -6,7 +6,7 @@
 *
 * Name: Boae Park  Student ID: 075194100  Date: 2022-04-10
 *
-* Angular App (Deployed) Link: ..
+* Angular App (Deployed) Link: https://starlit-gnome-88f660.netlify.app
 *
 * User API (Heroku) Link: https://secure-peak-24880.herokuapp.com
 *
